@@ -44,7 +44,6 @@ body {
 }
 
 .header__menu-link:hover {
-  text-decoration: none;
   color: var(--primary-color);
 }
 
